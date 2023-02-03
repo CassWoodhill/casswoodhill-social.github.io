@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemplate_react_typescript=self.webpackChunktemplate_react_typescript||[]).push([[68],{68:(e,t,r)=>{r.r(t),r.d(t,{GenericNotFound:()=>c});var c=function(){return React.createElement("p",null,"404 - Not found")};$RefreshReg$(c,"GenericNotFound")}}]);
